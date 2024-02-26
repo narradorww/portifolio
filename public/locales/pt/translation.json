@@ -1,0 +1,99 @@
+{
+  "sections": {
+    "techBadges": "Tecnologias e Ferramentas",
+    "experiences": "Experiências Profissionais"
+  },
+  "banner": {
+    "greeting": "Olá, eu sou Rodrigo Alexandre",
+    "description": "Desenvolvedor Front End/Mobile com sólida experiência em JavaScript, TypeScript, React e React Native. Colaboro efetivamente com equipes multidisciplinares em ambientes Ágeis, e estou sempre em busca de aprimorar habilidades de programação técnicas e de liderança para coordenar equipes e desenvolver carreiras no setor de tecnologia, visando impactar positivamente o desempenho e crescimento das equipes.",
+
+    "learnMore": "Saiba mais"
+  },
+  "experience": {
+    "trcLogistics": {
+      "company": "TRC LOGISTICS",
+      "role": "Desenvolvedor Full Stack",
+      "period": "Maio 2023 - até a presente data",
+      "description": "Ao chegar na TRC LOGISTICS, identifiquei a necessidade de concluir o desenvolvimento do aplicativo Fretador. Implementei Jira e Confluence para melhorar o gerenciamento do projeto. Em seguida, liderei a atualização do app, desenvolvido em React Native, para um ecossistema MERN e hospedagem na AWS, visando atender à legislação de proteção de dados e critérios da Google Store. Essas ações elevaram significativamente a qualidade e a confiança no aplicativo, através de uma abordagem focada na refatoração do código e na otimização da eficiência do desenvolvimento, utilizando React Native, MERN, Jira, Confluence e AWS."
+
+    },
+    "netlumeIO": {
+      "company": "Netlume.IO",
+      "role": "Desenvolvedor Frontend",
+      "period": "Outubro 2021 - Abril 2023",
+      "description": "Desenvolvi recursos e telas com React/Redux TypeScript e SaSS, convertendo o estilo do dashboard e implementando testes unitários com Jest e Enzyme, o que resultou em um aumento de 35% na eficiência do processo."
+    },
+    "hitcodeSoftwareHouse": {
+      "company": "Hitcode Software House",
+      "role": "Desenvolvedor Mobile",
+      "period": "Junho 2021 – Outubro 2021",
+      "description": "Construí telas e funcionalidades para aplicativos de controle de vendas móveis, sugerindo mudanças que levaram a uma redução de 30% nas ocorrências de suporte."
+    },
+    "qconsp": {
+      "company": "QConSP | C4Media Brasil",
+      "role": "Gerente de Produção de Eventos",
+      "period": "Fevereiro 2020 – Fevereiro 2021",
+      "description": "Entreguei orçamentos e implementei um projeto técnico em infraestrutura elétrica e redes que alcançou uma redução de US$ 63 mil no orçamento original do evento."
+    }
+  },
+  "education": {
+    "course1": {
+      "title": "Engenharia da Computação",
+      "institution": "UNIVESP Universidade Virtual do Estado de São Paulo",
+      "description": "Curso abrangente focado nos fundamentos e tópicos avançados em engenharia da computação.",
+      "startYear": "2022",
+      "endYear": "Atual"
+    },
+    "course2": {
+      "title": "Engenharia Elétrica",
+      "institution": "Universidade Cruzeiro do Sul",
+      "description": "Especializado em princípios de engenharia elétrica, sistemas e aplicações.",
+      "startYear": "1999",
+      "endYear": "2005"
+    },
+    "course3": {
+      "title": "Curso Técnico em Desenvolvimento de Aplicativos para Dispositivos Móveis",
+      "institution": "ETEC Paula Souza",
+      "description": "Especialização no desenvolvimento de aplicativos para dispositivos móveis.",
+      "startYear": "2020",
+      "endYear": "2020"
+    },
+    "course4": {
+      "title": "Técnico em Sistemas Eletrônicos",
+      "institution": "Colégio Cruzeiro do Sul",
+      "description": "Especialização em Sistemas Eletrônicos.",
+      "startYear": "1993",
+      "endYear": "1997"
+    },
+    "course5": {
+      "title": "Aprendizagem Industrial em Sistemas Eletrônicos",
+      "institution": "SENAI - Escola SENAI Roberto Simonsen",
+      "description": "Especialização em Sistemas Eletrônicos.",
+      "startYear": "1993",
+      "endYear": "1994"
+    }
+
+  },
+
+  "technologies": {
+    "languages": "HTML, CSS, JavaScript, TypeScript, React.js, React Native, Next.js, Node.js, Express, Jest, Enzyme, MongoDB, Redux React Native, Styled Components, SaSS",
+    "tools": "Visual Studio Code, Ubuntu, Linux, Bash, Figma, Google Cloud, AWS, Scrum (Sprint/Kanban), Jira, Confluence, Inteligência Artificial Generativa"
+  },
+  "awards": {
+    "award1": {
+      "title": "Hack for Change - Alura/FIAP",
+      "year": "2023",
+      "description": "Primeiro Lugar no Hack for Change - Alura/FIAP : Premiado por criar 'RecicleLink', uma plataforma que utiliza inteligência artificial generativa para melhorar operações de cooperativas de reciclagem. O prêmio Hack for Change 2023 foi uma iniciativa da FIAP e da ALURA, em parceria com a ONG Passos Mágicos, para promover soluções inovadoras e criativas para os desafios sociais da cidade de Embu-Guaçu. O evento reuniu estudantes, profissionais e entusiastas da tecnologia, que formaram equipes multidisciplinares e desenvolveram projetos em 48 horas, utilizando metodologias ágeis e ferramentas digitais. Os projetos foram avaliados por uma banca de jurados, composta por especialistas, mentores e representantes das instituições envolvidas. Os critérios de avaliação foram: impacto social, viabilidade técnica, originalidade e apresentação. Os três melhores projetos receberam prêmios em bolsas de estudo e mentoria para dar continuidade às suas ideias. O prêmio Hack for Change 2023 foi uma oportunidade de estimular a criatividade, o empreendedorismo e a colaboração entre os participantes, além de contribuir para a transformação positiva da sociedade"
+    },
+    "award2": {
+      "title": "Destaque TIC 2013 - Petrobrás",
+      "year": "2013",
+      "description": "O Prêmio Destaque TIC Petrobras é uma iniciativa da empresa para reconhecer e valorizar os profissionais de Tecnologia da Informação e Comunicação (TIC) que se destacaram no ano de 2013. O prêmio contempla as categorias de Liderança, Inovação, Gestão e Operação, e visa estimular a excelência, a criatividade e o comprometimento dos funcionários da área de TIC. Os vencedores foram anunciados em uma cerimônia realizada no dia 10 de dezembro de 2013, no Rio de Janeiro, com a presença da presidenta da Petrobras, Graça Foster. Os premiados receberam troféus e certificados. O Prêmio Destaque TIC Petrobras é uma forma de valorizar o trabalho dos profissionais de TIC, que contribuem para o desenvolvimento da empresa e para o fortalecimento da indústria nacional de petróleo e gás. Além disso, o prêmio incentiva a troca de experiências, o compartilhamento de boas práticas e a disseminação do conhecimento na área de TIC."
+    },
+    "award3": {
+      "title": "Destaque TIC 2014 [Atendimento Alta Administração e Presidência- Petrobrás",
+      "year": "2014",
+      "description": "Destaque entre os 50 funcionários do setor de Tecnologia da Informação e Comunicação no suporte e atendimento da Alta Administração e Presidência da Petrobras no ano de 2014 em todo o Brasil.O prêmio contempla as categorias de Liderança, Inovação, Gestão e Operação, e visa estimular a excelência, a criatividade e o comprometimento dos funcionários da área de TIC. Os vencedores foram anunciados em uma cerimônia realizada no dia 08 de dezembro de 2014, no Rio de Janeiro, com a presença da presidenta da Petrobras, Graça Foster. Os premiados receberam troféus e certificados. O Prêmio Destaque TIC Petrobras é uma forma de valorizar o trabalho dos profissionais de TIC, que contribuem para o desenvolvimento da empresa e para o fortalecimento da indústria nacional de petróleo e gás. Além disso, o prêmio incentiva a troca de experiências, o compartilhamento de boas práticas e a disseminação do conhecimento na área de TIC."
+    }
+  }
+}

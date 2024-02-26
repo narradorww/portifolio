@@ -1,0 +1,99 @@
+{
+  "sections": {
+    "techBadges": "Techs and Tools",
+    "experiences": "Experiences and Employment"
+
+  },
+  "banner": {
+    "greeting": "Hi, I am Rodrigo Alexandre!",
+    "description": "I'm  a seasoned Front End/Mobile Developer skilled in JavaScript, TypeScript, React, and React Native. I am committed to crafting interfaces that enhance user experience and streamline processes. I effectively collaborate with multidisciplinary teams in Agile environments, and I am always seeking to improve technical and leadership skills to coordinate teams and foster career development in the tech sector, aiming to positively impact team performance and growth.",
+    "learnMore": "Learn More"
+  },
+  "experience": {
+    "trcLogistics": {
+      "company": "TRC LOGISTICS",
+      "role": "Full Stack Developer",
+      "period": "May 2023 - to date",
+      "description": "I joined to establish a software development sector, prioritizing technical debt and enhancing the Fretador app in the MERN ecosystem hosted on AWS, significantly improving app quality and user trust."
+    },
+    "netlumeIO": {
+      "company": "Netlume.IO",
+      "role": "Frontend Developer",
+      "period": "October 2021 - April 2023",
+      "description": "Developed features and screens with React/Redux TypeScript and SaSS, converting dashboard styling and implementing unit tests with Jest and Enzyme, resulting in a 35% increase in process efficiency."
+    },
+    "hitcodeSoftwareHouse": {
+      "company": "Hitcode Software House",
+      "role": "Mobile Developer",
+      "period": "June 2021 – October 2021",
+      "description": "Constructed screens and features for mobile sales control apps, suggesting changes that led to a 30% reduction in support occurrences."
+    },
+    "qconsp": {
+      "company": "QConSP | C4Media Brazil",
+      "role": "Event Production Manager",
+      "period": "February 2020 – February 2021",
+      "description": "Delivered budget estimates and implemented a technical project on electrical infrastructure and networks that achieved a US$63k reduction in the original event budget."
+    }
+  },
+  "education": {
+    "course1": {
+      "title": "B.Sc. Computer Engineering",
+      "institution": "UNIVESP Universidade Virtual do Estado de São Paulo",
+      "description": "A comprehensive course focusing on the fundamentals and advanced topics in computer engineering.",
+      "startYear": "2022",
+      "endYear": "Present"
+    },
+    "course2": {
+      "title": "B.Sc. Electrical Engineering",
+      "institution": "Universidade Cruzeiro do Sul",
+      "description": "Specialized in electrical engineering principles, systems, and applications.",
+      "startYear": "1999",
+      "endYear": "2005"
+    },
+    "course3": {
+      "title": "technical course in development of Applications for Mobile Devices",
+      "institution": "ETEC Paula Souza",
+      "description": "Specialized on the development os applications for mobile devices.",
+      "startYear": "2020",
+      "endYear": "2020"
+    },
+    "course4": {
+      "title": "Technical in Eletronic Systems",
+      "institution": "Colégio Cruzeiro do Sul",
+      "description": "Specialized on Eletronic Systems.",
+      "startYear": "1993",
+      "endYear": "1997"
+    },
+    "course5": {
+      "title": "Industrial Apprenticeship in Eletronic Systems",
+      "institution": "SENAI - Escola SENAI Roberto Simonsen",
+      "description": "Specialized on Eletronic Systems.",
+      "startYear": "1993",
+      "endYear": "1994"
+    }
+
+
+  },
+  "technologies": {
+    "languages": "HTML, CSS, JavaScript, TypeScript, React.js, React Native, Next.js, Node.js, Express, Jest, Enzyme, MongoDB, React Native Redux, Styles Components, SaSS",
+    "tools": "Visual Studio Code, Ubuntu, Linux, Bash, Figma, Google Cloud, AWS, Scrum (Sprint/Kanban), Jira, Confluence, Generative Artificial Intelligence"
+  },
+  "awards": {
+    "award1": {
+      "title": "Hack for Change - Alura/FIAP",
+      "year": "2023",
+      "description": "First Place in Hack for Change - Alura/FIAP: Awarded for creating 'RecicleLink', a platform that uses generative artificial intelligence to improve recycling cooperative operations. The Hack for Change 2023 award was an initiative by FIAP and ALURA, in partnership with the NGO Passos Mágicos, to promote innovative and creative solutions for the social challenges of the city of Embu-Guaçu. The event gathered students, professionals, and technology enthusiasts, who formed multidisciplinary teams and developed projects in 48 hours, using agile methodologies and digital tools. The projects were evaluated by a panel of judges, composed of experts, mentors, and representatives of the involved institutions. The evaluation criteria were: social impact, technical feasibility, originality, and presentation. The top three projects received awards in scholarships and mentorship to continue their ideas. The Hack for Change 2023 prize was an opportunity to stimulate creativity, entrepreneurship, and collaboration among participants, in addition to contributing to the positive transformation of society."
+    },
+    "award2": {
+      "title": "TIC Highlight 2013 - Petrobras",
+      "year": "2013",
+      "description": "The Petrobras TIC Highlight Award is an initiative from the company to recognize and value the Information and Communication Technology (ICT) professionals who stood out in the year 2013. The award covers the categories of Leadership, Innovation, Management, and Operation, and aims to stimulate excellence, creativity, and commitment among TIC employees. The winners were announced in a ceremony held on December 10, 2013, in Rio de Janeiro, with the presence of Petrobras president Graça Foster. The awardees received trophies and certificates. The Petrobras TIC Highlight Award is a way to value the work of ICT professionals, who contribute to the development of the company and the strengthening of the national oil and gas industry. Moreover, the award encourages the exchange of experiences, the sharing of best practices, and the dissemination of knowledge in the ICT area."
+    },
+    "award3": {
+      "title": "TIC Highlight 2014 [High Administration and Presidency Service - Petrobras]",
+      "year": "2014",
+      "description": "Highlighted among the 50 employees from the Information and Communication Technology sector for support and service to the High Administration and Presidency of Petrobras in the year 2014 throughout Brazil. The award covers the categories of Leadership, Innovation, Management, and Operation, and aims to stimulate excellence, creativity, and commitment among TIC employees. The winners were announced in a ceremony held on December 8, 2014, in Rio de Janeiro, with the presence of Petrobras president Graça Foster. The awardees received trophies and certificates. The Petrobras TIC Highlight Award is a way to value the work of ICT professionals, who contribute to the development of the company and the strengthening of the national oil and gas industry. In addition, the award encourages the exchange of experiences, the sharing of best practices, and the dissemination of knowledge in the ICT area."
+    }
+  }
+
+}
