@@ -46,7 +46,11 @@ const AwardsSection: React.FC = () => {
 
   return (
     <Box
-      sx={{ width: "100vw", height: "75vh", backgroundColor: "secondary.main" }}
+      sx={{
+        width: "100vw",
+        minHeight: "75vh",
+        backgroundColor: "secondary.main",
+      }}
     >
       <Slider {...settings}>
         {awards.map((award) => (
